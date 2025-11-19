@@ -1,7 +1,7 @@
 ### Hi there, I'm Simon Leigh 👋
 
-**Director | Pure Reputation UK**  
-*Building Defensible Digital Reputations Through Code and Strategy*
+**Simon Leigh Pure Reputation**  
+*Director | Pure Reputation UK - Building Defensible Digital Reputations Through Code & Strategy*
 
 ## 🛡️ About Me
 
@@ -18,30 +18,63 @@ My GitHub repositories contain open-source tools, frameworks, and resources for:
 
 ### [Digital Reputation & OSINT Tools](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights)
 A curated collection of open-source intelligence tools and resources for reputation monitoring and online risk assessment.
+- **Tools & guides** for brand monitoring
+- **Social media intelligence** resources
+- **Data verification** methodologies
 
 ### [Pure Reputation Resources](https://github.com/simonleighpurereputation-cmyk/purereputation-resources)
 Essential guides and frameworks for building defensible digital reputations.
+- **Reputation management** checklists
+- **Crisis response** protocols
+- **Professional frameworks** for businesses
 
 ### [Reputation Frameworks](https://github.com/simonleighpurereputation-cmyk/reputation-frameworks)
 Methodologies and case studies for professional reputation management.
+- **Risk assessment** matrices
+- **Implementation guides** for organizations
+- **Real-world case studies**
 
-## 📊 GitHub Activity
+## 📊 Expertise & Services
+
+### Core Competencies
+- **Digital Reputation Strategy**
+- **OSINT & Online Intelligence**
+- **Risk Mitigation Frameworks**
+- **Brand Monitoring Systems**
+- **Crisis Management Protocols**
+- **Content Strategy & Creation**
+
+### Professional Services
+- Digital Reputation Audits
+- Brand Monitoring & Alert Systems
+- Crisis Management Planning
+- Search Result Optimization
+- Online Risk Assessment
+
+## 📈 GitHub Activity
 
 ![Simon Leigh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonleighpurereputation-cmyk&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonleighpurereputation-cmyk&layout=compact&theme=default)
 
 ## 🌐 Connect With Me
 
 - **Company Website:** [Pure Reputation UK](https://www.purereputation.co.uk)
 - **Professional:** [LinkedIn]([https://uk.linkedin.com/in/simon-leigh-md])
-- **Email:** [info@purereputation.co.uk]
+- **Email:** [info@purereputation.uk]
+- **All Repositories:** [GitHub Profile](https://github.com/simonleighpurereputation-cmyk?tab=repositories)
 
 ## 📬 Get Started
 
-**Explore my repositories for practical digital reputation resources:**
+**For Businesses:**
+- Start with our [Digital Reputation Resources](https://github.com/simonleighpurereputation-cmyk/purereputation-resources)
+- Explore our [Monitoring Tools](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights)
+- Review our [Professional Frameworks](https://github.com/simonleighpurereputation-cmyk/reputation-frameworks)
 
-- [Digital Reputation Insights](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights)
-- [Pure Reputation Resources](https://github.com/simonleighpurereputation-cmyk/purereputation-resources)  
-- [Reputation Frameworks](https://github.com/simonleighpurereputation-cmyk/reputation-frameworks)
+**For Professionals:**
+- All repositories are open-source and freely available
+- Contributions and suggestions are welcome
+- Feel free to open issues or discussions
 
 ---
 
