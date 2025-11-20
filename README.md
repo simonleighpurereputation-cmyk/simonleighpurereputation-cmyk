@@ -57,12 +57,30 @@ Methodologies and case studies for professional reputation management.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonleighpurereputation-cmyk&layout=compact&theme=default)
 
-## 🌐 Connect With Me
+## 🌐 Connect & External Profiles
 
+### Direct Contact
 - **Company Website:** [Pure Reputation UK](https://www.purereputation.co.uk)
-- **Professional:** [LinkedIn]([https://uk.linkedin.com/in/simon-leigh-md])
-- **Email:** [info@purereputation.uk]
+- **Professional Profile:** [About.me/SimonLeigh](https://about.me/simonleighpurereputation)
+- **Email:** [info@purereputation.co.uk]
+- **LinkedIn:** [Simon Leigh](https://uk.linkedin.com/in/simon-leigh-md)
+
+### Publications & Press
+- **Industry Articles:** [Vocal.media Profile](https://vocal.media/fyi/simon-leigh-pure-reputation-best-company)
+- **Press Coverage:** [MyLondon News Feature](https://www.mylondon.news/special-features/pure-reputation-celebrates-10-years-20351072)
+
+### GitHub Resources
 - **All Repositories:** [GitHub Profile](https://github.com/simonleighpurereputation-cmyk?tab=repositories)
+- **Digital Reputation Wiki:** [Comprehensive Guides](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki)
+
+## 📰 Press & Media Coverage
+
+### Featured In:
+- **[MyLondon News](https://www.mylondon.news/special-features/pure-reputation-celebrates-10-years-20351072)** - "Pure Reputation Celebrates 10 Years of Service"
+- **[Vocal Media](https://vocal.media/fyi/simon-leigh-pure-reputation-best-company)** - Industry insights and professional articles
+
+### Professional Profiles:
+- **[About.me](https://about.me/simonleighpurereputation)** - Comprehensive professional profile
 
 ## 📬 Get Started
 
