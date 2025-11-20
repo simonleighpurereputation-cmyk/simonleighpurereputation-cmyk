@@ -65,6 +65,10 @@ Methodologies and case studies for professional reputation management.
 - **Email:** [info@purereputation.co.uk]
 - **LinkedIn:** [Simon Leigh](https://uk.linkedin.com/in/simon-leigh-md)
 
+### Social Media
+- **X (Twitter):** [@simonleighpure](https://x.com/simonleighpure)
+- **Instagram:** [@simonleighpurereputation](https://www.instagram.com/simonleighpurereputation/)
+
 ### Publications & Press
 - **Industry Articles:** [Vocal.media Profile](https://vocal.media/fyi/simon-leigh-pure-reputation-best-company)
 - **Press Coverage:** [MyLondon News Feature](https://www.mylondon.news/special-features/pure-reputation-celebrates-10-years-20351072)
@@ -81,6 +85,8 @@ Methodologies and case studies for professional reputation management.
 
 ### Professional Profiles:
 - **[About.me](https://about.me/simonleighpurereputation)** - Comprehensive professional profile
+- **[X (Twitter)](https://x.com/simonleighpure)** - Daily insights and updates
+- **[Instagram](https://www.instagram.com/simonleighpurereputation/)** - Behind-the-scenes content
 
 ## 📬 Get Started
 
