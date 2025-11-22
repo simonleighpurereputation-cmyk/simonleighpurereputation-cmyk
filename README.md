@@ -1,4 +1,4 @@
-### Hi there, I'm Simon Leigh 👋
+### Hi there, I'm Simon Leigh 👋 
 
 **Simon Leigh Pure Reputation**  
 *Director | Pure Reputation UK - Building Defensible Digital Reputations Through Code & Strategy*
